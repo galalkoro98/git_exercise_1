@@ -1,3 +1,5 @@
 Banana
-apple 
+apple I have new apple
 orange
+Tomato
+mango
